@@ -1,0 +1,28 @@
+{
+    "drugs": [
+      {
+        "rxcui": "596928",
+        "name": "duloxetine 20 MG Delayed Release Oral Capsule [Cymbalta]",
+        "synonym": "Cymbalta 20 MG Delayed Release Oral Capsule"
+      },
+      {
+        "rxcui": "596932",
+        "name": "duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta]",
+        "synonym": "Cymbalta 30 MG Delayed Release Oral Capsule"
+      },
+      {
+        "rxcui": "615186",
+        "name": "duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]",
+        "synonym": "Cymbalta 60 MG (as duloxetine HCl 67.3 MG) Delayed Release Oral Capsule"
+      }
+    ],
+    "spellingsuggestions": [
+      {
+        "name": "Cymbalta"
+      },
+      {
+        "name": "Duloxetine"
+      }
+    ]
+  }
+  
