@@ -6,7 +6,8 @@ Installation:
 Clone Repo and then :
 -npm install
 
-db.json setup json server
+db.json setup json server:
+- npm install -g json-server
 
 Dependencies :
 -React
@@ -17,4 +18,6 @@ Dependencies :
 
 start json server :
 - npx json-server --watch db.json --port 8000
+
+Then:
 npm start
